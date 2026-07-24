@@ -1,0 +1,6 @@
+{
+  "name": "Personal Blog",
+  "description": "A personal blog where you can write, publish, edit, and delete articles with a guest and admin section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
